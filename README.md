@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/281750493.svg)](https://zenodo.org/badge/latestdoi/281750493)
+
+
 ! SFIRE - Spread fire model in WRF-Fire
 !
 !*** Jan Mandel August 2007 - March 2011 
