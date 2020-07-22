@@ -79,4 +79,4 @@ README_visualization.txt    convert WRF input and output to Matlab
 README_wps.txt              how use real data including fuel from Landfire
 
 
-[![DOI](https://zenodo.org/badge/281750493.svg)](https://zenodo.org/badge/latestdoi/281750493)
+
